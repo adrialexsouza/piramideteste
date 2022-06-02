@@ -1,0 +1,40 @@
+body{
+
+    background-color: rgb(184, 184, 243);
+
+
+}
+
+
+
+p, h1{
+text-align: center;
+
+
+}
+strong{
+
+    color: red;
+}
+
+form{
+margin: 0 auto;
+width: 400px;
+padding: 1em;
+border: 1px solid #ccc;
+}
+form div + div{
+    margin-top: 1em;
+}
+label{
+display: inline-block;
+width: 90px;
+text-align: right;
+}
+input, textarea{
+    font: 1em sans-serif;
+    width: 300 px;
+}
+
+
+
